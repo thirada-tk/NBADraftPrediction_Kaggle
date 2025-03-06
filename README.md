@@ -1,5 +1,5 @@
 # 🏅 NBA Draft Prediction Model 🏀
-Author: _Thirada Tiamklang 14337188_
+Author: _Thirada Tiamklang_
 
 _Kaggle Compitition AT1 - 36120 Advanced Machine Learning Application - Spring 2023_
 
