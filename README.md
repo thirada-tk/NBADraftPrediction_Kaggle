@@ -65,11 +65,11 @@ Metric for Model Assessment: The primary metric used to assess the performance o
 
 ## 🗝️ Key Features
 
-_Data Collection:_ We gather extensive statistics and information about college basketball players for the current season.
+* __Data Collection:__ We gather extensive statistics and information about college basketball players for the current season.
 
-_Machine Learning:_ We employ various machine learning techniques and algorithms to build a robust predictive model. The model is trained on historical data to learn the patterns and factors that influence NBA draft selections.
+* __Machine Learning:__ We employ various machine learning techniques and algorithms to build a robust predictive model. The model is trained on historical data to learn the patterns and factors that influence NBA draft selections.
 
-_Evaluation:_ Our model's performance is evaluated using AUROC, which provides a comprehensive view of its classification capabilities.
+* __Evaluation:__ Our model's performance is evaluated using AUROC, which provides a comprehensive view of its classification capabilities.
 
 ## ▶️ Getting Started
 
