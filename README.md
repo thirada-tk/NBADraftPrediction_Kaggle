@@ -1,5 +1,4 @@
 # 🏅NBA Draft Prediction Model🏀
-==============================
 Author: _Thirada Tiamklang 14337188_
 
 _Kaggle Compitition AT1 - 36120 Advanced Machine Learning Application - Spring 2023_
@@ -15,7 +14,7 @@ Objective: Develop a predictive model that determines the likelihood of a colleg
 Metric for Model Assessment: The primary metric used to assess the performance of our prediction model is AUROC (Area Under the Receiver Operating Characteristic Curve). AUROC is a widely recognized measure in classification tasks that helps evaluate how well our model distinguishes between drafted and non-drafted players.
 
 ## 📁 Project Organization
-------------
+
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -63,9 +62,9 @@ Metric for Model Assessment: The primary metric used to assess the performance o
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
+
 ## 🗝️ Key Features
-------------
+
 _Data Collection:_ We gather extensive statistics and information about college basketball players for the current season.
 
 _Machine Learning:_ We employ various machine learning techniques and algorithms to build a robust predictive model. The model is trained on historical data to learn the patterns and factors that influence NBA draft selections.
@@ -73,7 +72,7 @@ _Machine Learning:_ We employ various machine learning techniques and algorithms
 _Evaluation:_ Our model's performance is evaluated using AUROC, which provides a comprehensive view of its classification capabilities.
 
 ## ▶️ Getting Started
-------------
+
 If you're interested in using or contributing to this project, follow these steps:
 
 1. __Clone the Repository:__ Begin by cloning this repository to your local machine using git clone.
