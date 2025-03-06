@@ -1,4 +1,4 @@
-# 🏅NBA Draft Prediction Model🏀
+# 🏅 NBA Draft Prediction Model 🏀
 Author: _Thirada Tiamklang 14337188_
 
 _Kaggle Compitition AT1 - 36120 Advanced Machine Learning Application - Spring 2023_
@@ -8,7 +8,7 @@ The NBA Draft is a highly anticipated annual event where basketball teams select
 This project is all about leveraging machine learning to predict whether a college basketball player will be drafted into the NBA based on their statistics for the current season. The goal is to provide valuable insights and predictions for basketball enthusiasts, sports commentators, and anyone interested in the NBA draft.
 
 ## ✔️ Project Overview 
-------------
+
 Objective: Develop a predictive model that determines the likelihood of a college basketball player being drafted by an NBA team.
 
 Metric for Model Assessment: The primary metric used to assess the performance of our prediction model is AUROC (Area Under the Receiver Operating Characteristic Curve). AUROC is a widely recognized measure in classification tasks that helps evaluate how well our model distinguishes between drafted and non-drafted players.
