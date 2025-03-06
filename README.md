@@ -1,21 +1,20 @@
-🏅NBA Draft Prediction Model
+# 🏅NBA Draft Prediction Model🏀
 ==============================
 Author: _Thirada Tiamklang 14337188_
 
 _Kaggle Compitition AT1 - 36120 Advanced Machine Learning Application - Spring 2023_
 
-
 The NBA Draft is a highly anticipated annual event where basketball teams select players from American colleges and international professional leagues to join their rosters. For aspiring basketball players, getting drafted into the NBA is a significant milestone in their careers.
 
 This project is all about leveraging machine learning to predict whether a college basketball player will be drafted into the NBA based on their statistics for the current season. The goal is to provide valuable insights and predictions for basketball enthusiasts, sports commentators, and anyone interested in the NBA draft.
 
-__Project Overview__
+## ✔️ Project Overview 
 ------------
 Objective: Develop a predictive model that determines the likelihood of a college basketball player being drafted by an NBA team.
 
 Metric for Model Assessment: The primary metric used to assess the performance of our prediction model is AUROC (Area Under the Receiver Operating Characteristic Curve). AUROC is a widely recognized measure in classification tasks that helps evaluate how well our model distinguishes between drafted and non-drafted players.
 
-__Project Organization__
+## 📁 Project Organization
 ------------
 
     ├── LICENSE
@@ -65,7 +64,7 @@ __Project Organization__
 
 
 --------
-__🗝️Key Features__
+## 🗝️ Key Features
 ------------
 _Data Collection:_ We gather extensive statistics and information about college basketball players for the current season.
 
@@ -73,7 +72,7 @@ _Machine Learning:_ We employ various machine learning techniques and algorithms
 
 _Evaluation:_ Our model's performance is evaluated using AUROC, which provides a comprehensive view of its classification capabilities.
 
-__▶️Getting Started__
+## ▶️ Getting Started
 ------------
 If you're interested in using or contributing to this project, follow these steps:
 
