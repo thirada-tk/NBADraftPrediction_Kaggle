@@ -1,8 +1,6 @@
 # 🏅 NBA Draft Prediction Model 🏀
 Author: _Thirada Tiamklang_
 
-_Kaggle Compitition AT1 - 36120 Advanced Machine Learning Application - Spring 2023_
-
 The NBA Draft is a highly anticipated annual event where basketball teams select players from American colleges and international professional leagues to join their rosters. For aspiring basketball players, getting drafted into the NBA is a significant milestone in their careers.
 
 This project is all about leveraging machine learning to predict whether a college basketball player will be drafted into the NBA based on their statistics for the current season. The goal is to provide valuable insights and predictions for basketball enthusiasts, sports commentators, and anyone interested in the NBA draft.
